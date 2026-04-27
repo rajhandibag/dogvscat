@@ -121,11 +121,7 @@ Output Layer (1 - Sigmoid)
 ├── requirements.txt
 └── README.md
 ```
-
----
-
-## ⚡ Installation & Setup
-
+```bash
 # Clone the repository
 git clone https://github.com/rajhandibag/catvsdog.git
 
@@ -141,6 +137,9 @@ source venv/bin/activate   # Linux/Mac
 
 # Install dependencies
 pip install -r requirements.txt
+---
+
+
 
 ## ▶️ Usage
 
