@@ -126,12 +126,11 @@ Output Layer (1 - Sigmoid)
 
 ## ⚡ Installation & Setup
 
-```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/rajhandibag/catvsdog.git
 
 # Navigate to project folder
-cd your-repo-name
+cd catvsdog
 
 # Create virtual environment
 python -m venv venv
@@ -142,9 +141,6 @@ source venv/bin/activate   # Linux/Mac
 
 # Install dependencies
 pip install -r requirements.txt
-```
-
----
 
 ## ▶️ Usage
 
