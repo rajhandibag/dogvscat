@@ -107,20 +107,7 @@ Output Layer (1 - Sigmoid)
 
 ---
 
-## 📁 Project Structure
 
-```bash
-├── data/
-├── model/
-│   └── model.h5
-├── src/
-│   ├── preprocessing.py
-│   ├── model.py
-│   └── predict.py
-├── app.py   # Streamlit App
-├── requirements.txt
-└── README.md
-```
 ```bash
 # Clone the repository
 git clone https://github.com/rajhandibag/catvsdog.git
@@ -137,8 +124,7 @@ source venv/bin/activate   # Linux/Mac
 
 # Install dependencies
 pip install -r requirements.txt
----
-
+```
 
 
 ## ▶️ Usage
