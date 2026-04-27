@@ -57,14 +57,12 @@ Manual image classification is time-consuming and inefficient. This project aims
 graph TD
 A[User Upload Image] --> B[Streamlit UI]
 B --> C[Image Preprocessing]
-C --> D[Resize (256x256)]
+C --> D["Resize 256x256"]
 D --> E[Normalization]
 E --> F[Load Trained CNN Model]
 F --> G[Prediction]
 G --> H[Display Result]
 ```
-
----
 
 ## 🏗️ Architecture Diagram
 
